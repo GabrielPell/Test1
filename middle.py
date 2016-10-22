@@ -1,2 +1,2 @@
-#Commnt
+#comment
 print('Middle')
